@@ -1,7 +1,7 @@
-# ONLINE-Android-Programlama-Kotlin-ve-Java-ile-10-Mayis-2022
+# ONLINE-Android-Programlama-Kotlin-ve-Java-ile-17-Mayis-2022
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından __Sistem Bilgisayar__ işbirliği ile düzenlenmektedir.
-+ Kursun __10 Mayıs 2022 Salı__ günü başlayacaktır.
++ Kursun __17 Mayıs 2022 Salı__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __160__ saattir. Dersler __Salı - Perşembe__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
