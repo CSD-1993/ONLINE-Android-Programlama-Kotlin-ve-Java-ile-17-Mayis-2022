@@ -66,7 +66,7 @@
 + Android SDK kurulumu
 + Android Studio kurulumu
 + Android studio proje seçenekleri
-+ Android projelerininbileşenleri
++ Android projelerinin bileşenleri
 
 ## Emülatör kurulumu ve kullanımı
 + Android Virtual Device (AVD)
@@ -87,7 +87,7 @@
 + Bundle sınıf
 + Activity'ler arası haberleşme
     + Başlatan  activity'den başlatılan activity'ye veri aktarılması
-    + Başlatılan activity'den başlatan activity'ye veri aktarılması (onActivityResult metodunun override edilmesi)
+    + Başlatılan activity'den başlatan activity'ye veri aktarılması
 + Örnek uygulamalar
 
 ## Temel Kullanıcı arayüzü bileşenleri (Views, Menu'ler, Layoutlar)
@@ -113,7 +113,7 @@
 ## Kütüphane kullanımı: aar (android archive) ve jar (java archive) dosyaları
 + jar ve aar dosyaları
 + jar ve aar dosyalarının proje içerisinde kullanımı
-+ github üzerinde maven remote repository oluşturma ve kullanma
++ Github üzerinde maven remote repository oluşturma ve kullanma
 + Örnek Uygulamalar
 
 ## Gradle aracı
@@ -163,28 +163,28 @@
 + Örnek uygulamalar
 
 ## Asenkron işlemler ve Çoklu thread (Multithreading) uygulamarı
-+ Process kavramı
-+ Asenkron programlama hakkında temel bilgiler
-+ Çizelgeleme algoritmaları (scheduling algorithms)
-+ Thread kavramı
-    + Thread sınıfı ve Runnable arayüzü
-    + Executor'lar ve thread havuzları
-+ Looper sınıfı
-+ Handler sınıfı
-+ AsyncTask sınıfı
-+ Kotline coroutines
-+ Timer sınıfı
-+ CountDownTimer sınıfı ve kullanımı
-+ RxJava ile asenkron işlemler
-    + Schedulers sınıfı (Schedulers factory class)
-        + computation metodu
-        + io metodu
-        + newThread metodu
-        + single
-        + trampoline
-        + AndroidSchedulars sınıfı 
-+ Thread'lerarası senksronizasyon
-+ Örnek uygulamalar
+    + Process kavramı
+    + Asenkron programlama hakkında temel bilgiler
+    + Çizelgeleme algoritmaları (scheduling algorithms)
+    + Thread kavramı
+        + Thread sınıfı ve Runnable arayüzü
+        + Executor'lar ve thread havuzları
+    + Looper sınıfı
+    + Handler sınıfı
+    + AsyncTask sınıfı
+    + Kotlin coroutines
+    + Timer sınıfı
+    + CountDownTimer sınıfı ve kullanımı
+    + RxJava ile asenkron işlemler
+        + Schedulers sınıfı (Schedulers factory class)
+            + computation metodu
+            + io metodu
+            + newThread metodu
+            + single
+            + trampoline
+            + AndroidSchedulars sınıfı 
+    + Thread'lerarası senksronizasyon
+    + Örnek uygulamalar
 
 ## Yerel veritabanı işlemleri:
 + Temel veritabanı kavramları
@@ -214,7 +214,7 @@
 ## Broadcast işlemleri
 + Broadcast kavramı
 + Android broadcast kullanımı
-+ Android sürümleri arasında broadcast fakları
++ Android sürümleri arasında broadcast farkları
 + Örnek uygulamalar
 
 ## Kaynak (resource) kullanımı
@@ -249,6 +249,12 @@
 + WiFi kullanarak konum bilgisinin elde edilmesi
 + Örnek uygulamalar
 
+## gRPC
++ RPC (Remote Procedure Call)
++ Protobuf
++ gRPC stub
++ Örnek uygulamalar
+
 ## Web Servis kullanımı
 + Web servis kavramı
 + RESTful servisler
@@ -279,4 +285,6 @@
 + Olası bir hata (exception) durumunda uygulamanın yeniden başlatılması
 + Ortak intent'ler
 + Örnek uygulamalar
+
+## Ve diğerleri
 
