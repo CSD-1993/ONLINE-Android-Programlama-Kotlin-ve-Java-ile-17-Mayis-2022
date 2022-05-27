@@ -1,17 +1,17 @@
 # Kotlin ve Java ile Android Programlama
 
 ## Kotlin Programlama Dili (Java, C# ve C++ programcıları için)
-    + Temel türler ve değişken tanımlama
-    + var ve val değişkenker
-    + string template
-    + Sabitler
-    + Fonksiyon bildirimi çağrılması
+    Temel türler ve değişken tanımlama
+    var ve val değişkenker
+    string template
+    Sabitler
+    Fonksiyon bildirimi çağrılması
         + Default ve isimli argümanlar
         + Tek ifadeli fonksiyonlar
         + Global fonksiyomnlar
         + Yerel fonksiyonlar
-    + Operatörler ve karşılık gelen fonksiyonlar (operator functions)
-    + Kontrol deyimleri: if ifadesel deyimi, while döngü deyimi, do-while döngü deyimi, for döngü deyimi, break ve continue deyimleri, when ifadesel deyimi
+    Operatörler ve karşılık gelen fonksiyonlar (operator functions)
+    Kontrol deyimleri: if ifadesel deyimi, while döngü deyimi, do-while döngü deyimi, for döngü deyimi, break ve continue deyimleri, when ifadesel deyimi
     + Tür dönüşümleri
     + Sınıflar
         + Başlangıç metotları (primary ve secondary constructors)
